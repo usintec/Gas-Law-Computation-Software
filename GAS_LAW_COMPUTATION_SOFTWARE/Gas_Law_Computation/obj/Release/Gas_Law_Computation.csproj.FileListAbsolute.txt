@@ -1,0 +1,11 @@
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\bin\Release\Gas_Law_Computation.exe.config
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\MainWindow.g.cs
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\App.g.cs
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation_MarkupCompile.cache
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation_MarkupCompile.lref
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\MainWindow.baml
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation.g.resources
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation.Properties.Resources.resources
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation.csproj.GenerateResource.Cache
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation.exe
+C:\Users\LORD OF THE RINGS\Documents\Visual Studio 2015\Projects\Gas_Law_Computation_usintec\Gas_Law_Computation\obj\Release\Gas_Law_Computation.pdb
